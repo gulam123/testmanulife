@@ -1,0 +1,13 @@
+com\example\securingweb\model\MyUserDetails.class
+com\example\securingweb\finder\TaskFinder.class
+com\example\securingweb\service\TaskService.class
+com\example\securingweb\controller\EmployeeController.class
+com\example\securingweb\MvcConfig.class
+com\example\securingweb\SecuringWebApplication.class
+com\example\securingweb\repository\UserRepository.class
+com\example\securingweb\serviceImpl\TaskServiceImpl.class
+com\example\securingweb\model\User.class
+com\example\securingweb\repository\TaskRepository.class
+com\example\securingweb\WebSecurityConfig.class
+com\example\securingweb\serviceImpl\UserDetailsServiceImpl.class
+com\example\securingweb\model\Task.class
